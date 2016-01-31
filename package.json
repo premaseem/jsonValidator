@@ -1,0 +1,49 @@
+{
+  "name": "payload-validator",
+  "version": "1.0.4",
+  "description": "Validate the API Payload structure against incoming request.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforgeek/payload-validator.git"
+  },
+  "keywords": [
+    "api",
+    "payload",
+    "validator",
+    "express"
+  ],
+  "author": {
+    "name": "Shahid Shaikh"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforgeek/payload-validator/issues"
+  },
+  "homepage": "https://github.com/codeforgeek/payload-validator#readme",
+  "gitHead": "d9faf07765bda73d7dddfbde322dfe1468386c22",
+  "_id": "payload-validator@1.0.4",
+  "_shasum": "034e14e5207abc1f1e3955d3c47b45fb70a18759",
+  "_from": "payload-validator@*",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.0",
+  "_npmUser": {
+    "name": "unixroot",
+    "email": "shahid@codeforgeek.com"
+  },
+  "dist": {
+    "shasum": "034e14e5207abc1f1e3955d3c47b45fb70a18759",
+    "tarball": "http://registry.npmjs.org/payload-validator/-/payload-validator-1.0.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "unixroot",
+      "email": "shahid@codeforgeek.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/payload-validator/-/payload-validator-1.0.4.tgz"
+}
