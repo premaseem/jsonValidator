@@ -17,14 +17,14 @@ var target = {
     "someArray"  : [1]
 }
 
-var source = {
+var payload = {
     "id" : 12,
     "someString" : "2323",
     "someNumber" : "hello ",
     "someArray" : [1]
 }
 
-var result = validator(source,target,["id"],false);
+var result = validator(payload,target,["id"],false);
 console.log("The JSON is successful "+result.success);
 console.log(result)
 </script>
