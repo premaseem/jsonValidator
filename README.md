@@ -1,3 +1,8 @@
+# jsonValidator
+A small POC project to validate json objects 
+This is the base page. 
+
+
 # API Payload Validator for Node.js
 
 This module is developed for cross verifying the structure and data of payload. Currently it supports JSON only. It works this way.
@@ -101,3 +106,5 @@ Once validation is successful you will receive following message.
   success: true
 }
 ```
+
+
